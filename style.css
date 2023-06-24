@@ -1,0 +1,76 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 7%;
+
+}
+
+.calculater {
+    background-color: grey;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-shadow: 3px 3px 3px 3px red;
+    width: 200px;
+    padding: 3px;
+    height: auto;
+}
+
+.input {
+    width: 193px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 3px;
+    text-align: right;
+    align-items: right;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+input {
+    background-color: darkslategrey;
+    color: white;
+    width: 45px;
+    height: 45px;
+    padding: 5px;
+}
+
+.firstrow {
+    padding: 3px;
+    color: aqua;
+    background-color: aqua;
+}
+
+.secondrow {
+    padding: 3px;
+    background-color: aqua;
+
+
+}
+
+.thirdrow {
+    padding: 3px;
+    background-color: aqua;
+
+}
+
+.fourrow {
+    padding: 3px;
+    background-color: aqua;
+}
+
+.fiverow {
+    padding: 3px;
+    background-color: aqua;
+}
+
+.display {
+    background-color: aqua;
+}
+
+#equal {
+    width: 94px;
+}
